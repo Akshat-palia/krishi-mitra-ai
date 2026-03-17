@@ -41,7 +41,11 @@ It integrates crop disease detection, chatbot assistance, weather insights, and 
 
 ## 🏗️ Architecture
 
-![Architecture](./assets/architecture.png)
+### Diagram 1
+![Architecture 1](./assets/arc1.png)
+
+### Diagram 2
+![Architecture 2](./assets/arc2.png)
 
 ---
 
