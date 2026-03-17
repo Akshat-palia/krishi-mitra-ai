@@ -1,0 +1,381 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "type": "Fungal",
+    "symptoms": "Olive-green to dark brown velvety spots on leaves and fruits. Leaves may curl and drop early. Fruits develop scabby lesions.",
+    "treatment": "Apply protective fungicides such as mancozeb or captan during early leaf stage and repeat during wet weather.",
+    "dosage": "2–3 grams per liter of water at 7–10 day intervals.",
+    "prevention": "Remove fallen infected leaves, prune for airflow, and avoid overhead irrigation."
+  },
+
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "type": "Fungal",
+    "symptoms": "Brown circular spots on leaves, fruit rot with concentric rings, and branch cankers.",
+    "treatment": "Apply broad-spectrum fungicides such as thiophanate-methyl or mancozeb.",
+    "dosage": "2–3 grams per liter of water.",
+    "prevention": "Remove mummified fruits and infected branches. Maintain orchard sanitation."
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "type": "Fungal",
+    "symptoms": "Bright orange-yellow spots on leaves. Galls may form on nearby juniper plants.",
+    "treatment": "Use systemic fungicides at pink bud and petal fall stage.",
+    "dosage": "1–2 ml or 2–3 grams per liter depending on product.",
+    "prevention": "Remove alternate host plants and maintain orchard hygiene."
+  },
+
+  "Apple___healthy": {
+    "crop": "Apple",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "No visible disease symptoms. Leaves are green and normal.",
+    "treatment": "No chemical treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain balanced nutrition, irrigation, and regular monitoring."
+  },
+
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Plant appears healthy with no disease symptoms.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain proper irrigation and soil acidity."
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "disease": "Powdery Mildew",
+    "type": "Fungal",
+    "symptoms": "White powdery growth on leaves and shoots. Leaves may curl and distort.",
+    "treatment": "Apply sulfur-based or systemic fungicides at early infection.",
+    "dosage": "2–3 grams per liter at 7-day intervals.",
+    "prevention": "Ensure good air circulation and avoid excess nitrogen."
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "No disease symptoms present.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Follow recommended orchard management practices."
+  },
+
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn (Maize)",
+    "disease": "Gray Leaf Spot",
+    "type": "Fungal",
+    "symptoms": "Rectangular gray lesions between leaf veins.",
+    "treatment": "Apply fungicides at early infection stage.",
+    "dosage": "2–3 grams per liter as per label.",
+    "prevention": "Crop rotation and residue management."
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "type": "Fungal",
+    "symptoms": "Reddish-brown pustules on leaf surface.",
+    "treatment": "Apply triazole fungicides at early stage.",
+    "dosage": "1–2 ml per liter depending on product.",
+    "prevention": "Use resistant hybrids."
+  },
+
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)",
+    "disease": "Northern Leaf Blight",
+    "type": "Fungal",
+    "symptoms": "Long cigar-shaped gray lesions on leaves.",
+    "treatment": "Apply protective fungicides when symptoms appear.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Crop rotation and proper field sanitation."
+  },
+
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "No visible disease.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain balanced fertilization."
+  },
+
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "type": "Fungal",
+    "symptoms": "Brown leaf spots and shriveled black berries.",
+    "treatment": "Apply fungicides at bloom stage.",
+    "dosage": "As per label recommendation.",
+    "prevention": "Prune infected vines and improve airflow."
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)",
+    "type": "Fungal",
+    "symptoms": "Interveinal yellowing and dark spots on berries.",
+    "treatment": "Remove infected wood. No fully effective chemical cure.",
+    "dosage": "Not applicable.",
+    "prevention": "Prune carefully and disinfect tools."
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "disease": "Leaf Blight",
+    "type": "Fungal",
+    "symptoms": "Brown circular leaf spots that enlarge.",
+    "treatment": "Apply copper-based fungicides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Ensure proper vineyard sanitation."
+  },
+
+  "Grape___healthy": {
+    "crop": "Grape",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Healthy green foliage.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Follow recommended vineyard practices."
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange",
+    "disease": "Citrus Greening (HLB)",
+    "type": "Bacterial",
+    "symptoms": "Yellowing of leaves, misshapen fruits, and stunted growth.",
+    "treatment": "No cure available. Remove infected trees.",
+    "dosage": "Not applicable.",
+    "prevention": "Control psyllid vector and use certified disease-free plants."
+  },
+
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "disease": "Bacterial Spot",
+    "type": "Bacterial",
+    "symptoms": "Small dark lesions on leaves and fruits.",
+    "treatment": "Apply copper-based bactericides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Use disease-free planting material."
+  },
+
+  "Peach___healthy": {
+    "crop": "Peach",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "No visible disease symptoms.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain orchard hygiene."
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "type": "Bacterial",
+    "symptoms": "Water-soaked spots that turn brown with yellow halo.",
+    "treatment": "Spray copper-based bactericides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Avoid overhead irrigation."
+  },
+
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Plant shows no disease.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain proper spacing and irrigation."
+  },
+
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "type": "Fungal",
+    "symptoms": "Concentric dark rings on older leaves.",
+    "treatment": "Apply fungicides such as mancozeb.",
+    "dosage": "2–3 grams per liter every 7–10 days.",
+    "prevention": "Practice crop rotation."
+  },
+
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "type": "Fungal",
+    "symptoms": "Large dark lesions on leaves and tuber rot.",
+    "treatment": "Apply systemic fungicides immediately.",
+    "dosage": "2–2.5 grams per liter.",
+    "prevention": "Ensure proper drainage."
+  },
+
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Plant appears normal and green.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Balanced fertilization and irrigation."
+  },
+
+  "Raspberry___healthy": {
+    "crop": "Raspberry",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "No disease symptoms present.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Follow recommended cultivation practices."
+  },
+
+  "Soybean___healthy": {
+    "crop": "Soybean",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Healthy green leaves with no lesions.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain balanced soil nutrition."
+  },
+
+  "Squash___Powdery_mildew": {
+    "crop": "Squash",
+    "disease": "Powdery Mildew",
+    "type": "Fungal",
+    "symptoms": "White powdery growth on leaves.",
+    "treatment": "Apply sulfur-based fungicides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Ensure spacing and reduce humidity."
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "disease": "Leaf Scorch",
+    "type": "Fungal",
+    "symptoms": "Small purple spots that enlarge and turn brown.",
+    "treatment": "Apply copper or mancozeb fungicides.",
+    "dosage": "2–3 grams per liter at 7–10 day intervals.",
+    "prevention": "Improve air circulation and avoid overhead irrigation."
+  },
+
+  "Strawberry___healthy": {
+    "crop": "Strawberry",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Plant shows no disease symptoms.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain proper irrigation and sanitation."
+  },
+
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "type": "Bacterial",
+    "symptoms": "Small dark lesions with yellow halo on leaves.",
+    "treatment": "Apply copper-based bactericides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Use disease-free seeds."
+  },
+
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "type": "Fungal",
+    "symptoms": "Target-like concentric rings on older leaves.",
+    "treatment": "Apply chlorothalonil or mancozeb.",
+    "dosage": "2–3 grams per liter every 7–10 days.",
+    "prevention": "Crop rotation and debris removal."
+  },
+
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "type": "Fungal",
+    "symptoms": "Large dark water-soaked lesions on leaves.",
+    "treatment": "Apply systemic fungicides immediately.",
+    "dosage": "2–2.5 grams per liter.",
+    "prevention": "Avoid waterlogging."
+  },
+
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "type": "Fungal",
+    "symptoms": "Yellow patches on upper leaf surface with mold underneath.",
+    "treatment": "Apply appropriate fungicides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Ensure good ventilation in greenhouse."
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "type": "Fungal",
+    "symptoms": "Small circular spots with gray centers.",
+    "treatment": "Apply protective fungicides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Remove infected leaves."
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "Spider Mites",
+    "type": "Pest",
+    "symptoms": "Fine webbing and yellow speckling on leaves.",
+    "treatment": "Apply recommended miticides.",
+    "dosage": "As per product label.",
+    "prevention": "Maintain field hygiene and monitor regularly."
+  },
+
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "Target Spot",
+    "type": "Fungal",
+    "symptoms": "Circular spots with concentric rings.",
+    "treatment": "Apply protective fungicides.",
+    "dosage": "2–3 grams per liter.",
+    "prevention": "Ensure good drainage."
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "type": "Viral",
+    "symptoms": "Leaf curling, yellowing, and stunted growth.",
+    "treatment": "No direct cure. Control whiteflies.",
+    "dosage": "Use recommended insecticides as per label.",
+    "prevention": "Use resistant varieties."
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "type": "Viral",
+    "symptoms": "Mosaic pattern on leaves and distorted growth.",
+    "treatment": "Remove infected plants.",
+    "dosage": "Not applicable.",
+    "prevention": "Disinfect tools and use certified seeds."
+  },
+
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "type": "Healthy",
+    "symptoms": "Plant appears healthy with no disease.",
+    "treatment": "No treatment required.",
+    "dosage": "Not applicable.",
+    "prevention": "Maintain proper irrigation and nutrition."
+  }
+}
